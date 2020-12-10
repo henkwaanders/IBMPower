@@ -37,15 +37,15 @@
       },
       {
         "title": "Operating systems supported",
-        "description": "vmware: Ubuntu 14.4.01 x64"
+        "description": "PowerVM RHEL8"
       },
       {
         "title": "Topology",
-        "description": "openstack - IBM PowerVC: Single virtual machines"
+        "description": "Openstack - IBM PowerVC: Single virtual machines"
       },
       {
         "title": "Default virtual machine settings",
-        "description": "<ul><li>Openstack:<ul style=\"margin-left: 20px;\"><li>Ubuntu 16.04</li><ul style=\"margin-left: 20px;\"><li>Flavor: Cores = 1, Memory = 1GB, Storage = 25GB SAN</li><li>Network: Private IP - Computed, Public IP - Computed</li></ul></ul>"
+        "description": "<ul><li>Openstack:<ul style=\"margin-left: 20px;\"><li>RHEL 8</li><ul style=\"margin-left: 20px;\"><li>Flavor: Cores = 1, Memory = 4GB, Storage = 25GB SAN</li><li>Network: Private IP - Computed, Public IP - Computed</li></ul></ul>"
       },
       {
         "title": "Usage and special notes",
